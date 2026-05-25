@@ -1,0 +1,6 @@
+{
+  "name": "SAGE BI - Retail Intelligence",
+  "description": "A high-performance executive dashboard for retail intelligence, featuring advanced analytics for sales, inventory, customers, and marketing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
